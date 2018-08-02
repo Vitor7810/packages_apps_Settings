@@ -28,7 +28,7 @@ import com.android.settingslib.core.AbstractPreferenceController;
 import com.android.settingslib.core.lifecycle.Lifecycle;
 import com.android.settingslib.core.lifecycle.LifecycleObserver;
 import com.android.settingslib.core.lifecycle.events.OnResume;
-import org.aospextended.extensions.AccentPicker;
+import com.bootleggers.dumpster.external.AccentPicker;
 
 import android.app.Fragment;
 import android.content.Context;
